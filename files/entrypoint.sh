@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
-WEB_USERNAME=${WEB_USERNAME:-'admin'}
-WEB_PASSWORD=${WEB_PASSWORD:-'password'}
+WSPATH=${WSPATH:-'tomdrx'}
+UUID=${UUID:-'48597e69-84f3-4d93-8369-a556095e7632'}
+WEB_USERNAME=${WEB_USERNAME:-'tomdrx'}
+WEB_PASSWORD=${WEB_PASSWORD:-'986927879Drx'}
 
 generate_config() {
   cat > config.json << EOF
